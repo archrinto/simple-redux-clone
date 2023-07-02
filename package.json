@@ -1,0 +1,14 @@
+{
+  "name": "clone-redux",
+  "version": "1.0.0",
+  "description": "create simple rudux from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.32.2"
+  }
+}
